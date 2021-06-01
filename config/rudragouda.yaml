@@ -1,0 +1,18 @@
+---
+   EmployeeRecords:
+     - emp1:
+         name: !!str abc
+         age: !!int 24
+     - emp2:
+         name: !!str def
+         age: !!int 25
+     - emp3:
+         name: !!str ghi
+         age: !!int 26
+     - emp4:
+         name: !!str xyz
+         age: !!int 24
+     - emp5:
+         name: !!str abd
+         age: !!int 32
+... 
